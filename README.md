@@ -2,6 +2,10 @@
 
 This project is a Full Stack Next.js-based chat gpt clone using modern technologies and APIs for a seamless chat experience.
 
+#### Live Demo:
+
+[https://ai-chat-app-mauve-eight.vercel.app/](https://ai-chat-app-mauve-eight.vercel.app/)
+
 #### Technologies Used:
 
 - **Next.js 14**: React framework for building server-rendered applications.
